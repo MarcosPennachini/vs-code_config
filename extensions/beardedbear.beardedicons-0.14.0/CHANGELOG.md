@@ -1,0 +1,110 @@
+# Changelog for Bearded Icons
+
+## 0.14 - 2021-07-24
+
+- Add Nim icon
+- Add Nest icons
+- Add ini icon
+- Add variations for font types
+- Add Jenkins icon
+- Add Vetur icon
+- Add variations for audio files
+- Add Txt icon
+- Add binary icons
+- Add cert and key icons
+
+## 0.13 - 2021-07-15
+
+- Add Netlify and Vercel icon
+- Add Tailwind and Windi icon
+- Add yarn error icon
+- Add Jinja icon
+- Add Haml icon
+- Add Smarty icon
+- Add Haskell icon
+- Add Gradle icon
+
+## 0.12 - 2021-07-14
+
+- Add Vite icon for ts files
+- Change icon for tsx and jsx files
+- Improve lisibility for .toml icon
+- Add differents icons for image formats
+- Add nuxt config icon
+- Change readme icon
+- Add graphql icon for .gql files [Issue [#14](https://github.com/BeardedBear/bearded-icons/issues/14)](https://github.com/BeardedBear/bearded-icons/issues/14)
+- Add PowerShell modules and data icons [Issue [#15](https://github.com/BeardedBear/bearded-icons/issues/15)](https://github.com/BeardedBear/bearded-icons/issues/16) [Issue [#16](https://github.com/BeardedBear/bearded-icons/issues/16)](https://github.com/BeardedBear/bearded-icons/issues/16)
+- Add Groovy icon [Issue [#19](https://github.com/BeardedBear/bearded-icons/issues/19)](https://github.com/BeardedBear/bearded-icons/issues/19)
+- Add .erb icon [Issue [#21](https://github.com/BeardedBear/bearded-icons/issues/21)](https://github.com/BeardedBear/bearded-icons/issues/21)
+- Add .wasm icon [Issue [#23](https://github.com/BeardedBear/bearded-icons/issues/23)](https://github.com/BeardedBear/bearded-icons/issues/23)
+
+## 0.10 - 2021-06-23
+
+- Fix html icon
+- Add swift icon [Issue [#18](https://github.com/BeardedBear/bearded-icons/issues/18)](https://github.com/BeardedBear/bearded-icons/issues/18)
+- Add graphql icon [Issue [#14](https://github.com/BeardedBear/bearded-icons/issues/14)](https://github.com/BeardedBear/bearded-icons/issues/14)
+- Add .h and .m icons [Issue [#18](https://github.com/BeardedBear/bearded-icons/issues/18)](https://github.com/BeardedBear/bearded-icons/issues/18)
+
+## 0.9.2 - 2021-04-21
+
+- Fix icons : C#, Lua, License, Log, C
+- Add icon for liquid [Issue [#13](https://github.com/BeardedBear/bearded-icons/issues/13)](https://github.com/BeardedBear/bearded-icons/issues/13)
+- Add icon for SASS [Issue [#12](https://github.com/BeardedBear/bearded-icons/issues/12)](https://github.com/BeardedBear/bearded-icons/issues/12)
+- Add icon for PUG [Issue [#12](https://github.com/BeardedBear/bearded-icons/issues/12)](https://github.com/BeardedBear/bearded-icons/issues/12)
+
+## 0.9.1 - 2021-01-28
+
+- Fix folder icon export
+
+## 0.9.0 - 2021-01-28
+
+- Add support for Blade. [Issue [#11](https://github.com/BeardedBear/bearded-icons/issues/11)](https://github.com/BeardedBear/bearded-icons/issues/11)
+- Fix render for the next VSCode version. [Issue [#10](https://github.com/BeardedBear/bearded-icons/issues/10)](https://github.com/BeardedBear/bearded-icons/issues/10)
+
+## 0.8.0 - 2021-01-20
+
+- Add support for Nunjucks.
+
+## 0.7.0 - 2021-01-10
+
+- Add support for .env, nginx, sql [Issue [#9](https://github.com/BeardedBear/bearded-icons/issues/9)](https://github.com/BeardedBear/bearded-icons/issues/9)
+- Add support for cpp, c [Issue [#6](https://github.com/BeardedBear/bearded-icons/issues/6)](https://github.com/BeardedBear/bearded-icons/issues/6)
+- Add support for powershell [Issue [#5](https://github.com/BeardedBear/bearded-icons/issues/5)](https://github.com/BeardedBear/bearded-icons/issues/5).
+- Add support for NVM, conf.
+
+## 0.6.0 - 2020-10-15
+
+- Add support for Eex templates (thanks [robgering](https://github.com/robgering))
+
+## 0.5.0 - 2020-09-30
+
+- Add support for mint
+- Fix CSS icon with postcss VSCode file association [Issue [#3](https://github.com/BeardedBear/bearded-icons/issues/3)](https://github.com/BeardedBear/bearded-icons/issues/3)
+
+## 0.4.0 - 2020-09-16
+
+- Add support for Vite
+- Add support for tsx, exs, erlang [Issue [#2](https://github.com/BeardedBear/bearded-icons/issues/2)](https://github.com/BeardedBear/bearded-icons/issues/2)
+
+## 0.3.0 - 2020-09-03
+
+- Add support for browserslist
+- Fix missing icons go (go, go.mod, tmpl) and svelte [Issue [#1](https://github.com/BeardedBear/bearded-icons/issues/1)](https://github.com/BeardedBear/bearded-icons/issues/1)
+
+## 0.2.0 - 2020-09-01
+
+- Add support for vscode, rjson, less, stylus, postcss, ai, psd, pdf
+- Update screenshot
+
+## 0.1.0 - 2020-08-27
+
+- Add variant icon for folders and light themes
+- Add support for: gulp, grunt, editorconfig, shell
+
+## 0.0.2 - 2020-08-26
+
+- Second wave of icons
+
+## 0.0.1 - 2020-08-26
+
+- First wave of icons

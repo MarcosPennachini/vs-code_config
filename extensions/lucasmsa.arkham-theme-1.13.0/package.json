@@ -1,0 +1,34 @@
+{
+	"name": "arkham-theme",
+	"displayName": "Arkham Theme",
+	"description": "A purplish dark theme with clear divisions and nice colors",
+	"version": "1.13.0",
+	"publisher": "lucasmsa",
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Arkham Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Arkham Theme-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lucasmsa/arkham-theme.git"
+	},
+	"homepage": "https://github.com/lucasmsa/arkham-theme/blob/master/README.md",
+	"__metadata": {
+		"id": "40b93ecf-d4a4-4469-a6d0-7f55109e78bf",
+		"publisherId": "d38b0558-992e-4043-83db-67de1471d758",
+		"publisherDisplayName": "lucasmsa",
+		"installedTimestamp": 1619876022499
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"name": "theme-cobalt3",
+	"version": "2.1.6",
+	"displayName": "Cobalt 3",
+	"description": "Adapted from Official theme by Wes Bos for more of that italic goodness.",
+	"publisher": "alex-pattison",
+	"icon": "images/logo.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wesbos/cobalt2-vscode"
+	},
+	"galleryBanner": {
+		"color": "#193549",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"VSCode",
+		"Themes"
+	],
+	"engines": {
+		"vscode": "^1.15.0"
+	},
+	"scripts": {
+		"start": "nodemon --exec vsce package"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cobalt3",
+				"uiTheme": "vs-dark",
+				"path": "./theme/cobalt3.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"nodemon": "^1.14.12",
+		"vsce": "^1.36.2"
+	},
+	"__metadata": {
+		"id": "622787d0-d27b-4cd3-8126-d140a56ee118",
+		"publisherId": "d76d2009-5776-4701-956e-3430be037824",
+		"publisherDisplayName": "Alex Pattison"
+	}
+}
